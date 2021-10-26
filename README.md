@@ -3,3 +3,6 @@
 
 # Link com vídeo de demonstração
 https://youtu.be/E5nzV_GOAPk
+
+# Link para dashboard
+https://thingspeak.com/channels/1518287
